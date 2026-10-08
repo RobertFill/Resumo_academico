@@ -14,7 +14,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[o impacto no desenvolvimento de habilidades e na rotina dos professores com a IA Generativa]`|`[SOLIVEIRA et al./2025]`|`[preencher]`|`[preencher]`|`[erros conceituais, vieses e alucinações (criação de respostas erradas e fora do contexto]`|`[preencher]`|
+|`[o impacto no desenvolvimento de habilidades e na rotina dos professores com a IA Generativa]`|`[SOLIVEIRA et al./2025]`|`[A IA acelera o processo de criação, porém não troca a orientação do professor na sala de aula]`|`[As dinâmicas na sala de aula em diferente da sobrecarga do trabalho de respostas da IA]`|`[erros conceituais, vieses e alucinações (criação de respostas erradas e fora do contexto]`|`[Um escasso estudo de pesquisa que consigam usar a pesquisa quantitativa e qualitativa da IA na saúde do trabalho dos professores`|
 
 
 |`[Análise e desafios na aprendizagem com IA Generativa]`|`[Macedo et al./2026]`|`[preencher]`|`[preencher]`|`[falta de consenso sobre o significado de IA e LIA]`|`[preencher]`|
