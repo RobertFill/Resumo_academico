@@ -46,7 +46,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`[Formatação inconsistente dos dados das revistas e fontes originais nos fichamentos.]`|`[Formatação inconsistente dos dados das revistas e fontes originais nos fichamentos.]`|`[preencher]`|`[Herlon F. V. de Oliveira ]`|
+|`[preencha.]`|`[Formatação inconsistente dos dados das revistas e fontes originais nos fichamentos,Transição abrupta entre os benefícios da IA e os desafios éticos levantados pela literatura.]`|`[Reescrita dos parágrafos de transição para diferenciar claramente a descrição da tecnologia e a análise crítica dos seus impactos. ]`|`[Herlon F. V. de Oliveira ]`|
 
 
 
