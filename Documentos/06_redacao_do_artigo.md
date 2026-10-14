@@ -33,8 +33,7 @@ Todos os artigos foram lidos além do resumo e analisados (problema,objetivo,res
 
 ### `[Eixo 2]`
 
-`[Benefícios e desafios.
-Entre os benefícios da IA na educação está a possibilidade de auxiliar na organização dos conteúdos e na personalização dos estudos.A tecnologia também pode contribuir para o desenvolvimento de habilidades necessárias para o atual cenário tecnológico. 
+`[Benefícios e desafios.Entre os benefícios da IA na educação está a possibilidade de auxiliar na organização dos conteúdos e na personalização dos estudos.A tecnologia também pode contribuir para o desenvolvimento de habilidades necessárias para o atual cenário tecnológico. 
 Por outro lado,existem limitações.A IA pode apresentar erros conceituais,informações incorretas.Por esse motivo,professores e alunos precisam analisar as informações fornecidas pela ferramenta antes de utilizá-las. 
 Outro ponto importante é a necessidade de desenvolver o pensamento crítico e a alfabetização digital.O uso da tecnologia sem orientação pode aumentar problemas relacionados à desigualdade e à exclusão digital.Dessa forma, escolas,professores e alunos precisam estar preparados para utilizar esses recursos de maneira responsável.]`
 
