@@ -23,11 +23,11 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-`[Em que condições a IA pode contribuir na educação, para professores e alunos, sem comprometer a autonomia e o esforço cognitivo, a autoria e a proteção dos dados dos estudantes.]`
+`[Em que condições a IA pode contribuir na educação,para professores e alunos,sem comprometer a autonomia e o esforço cognitivo,a autoria e a proteção dos dados dos estudantes.]`
 
 ### Objetivo do estudo
 
-`[Analisar os desafios e as possibilidades da IA no processo de ensino e aprendizagem. O estudo examina a personalização e o uso da IA como tutor no ensino, os impactos para o trabalho dos professores e para a avaliação, os riscos de dependência pelo uso excessivo da ferramenta, além dos tratamentos de dados. Por fim, busca propor condições para que as instituições de ensino adotem a IA de forma responsável.]`
+`[Analisar os desafios e as possibilidades da IA no processo de ensino e aprendizagem.O estudo examina a personalização e o uso da IA como tutor no ensino,os impactos para o trabalho dos professores e para a avaliação,os riscos de dependência pelo uso excessivo da ferramenta,além dos tratamentos de dados.Por fim,busca propor condições para que as instituições de ensino adotem a IA de forma responsável.]`
 
 ### Método utilizado
 
@@ -35,15 +35,15 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Contexto, amostra ou dados
 
-`[O contexto do artigo trata-se do uso da inteligência artificial, especificamente a generativa, na área educacional, com atenção ao ambiente normativo brasileiro, como a LGPD (Lei Geral de Proteção de Dados). Além disso, o estudo foi desenvolvido com dados levantados em fontes de artigos, UNESCO, OECD e Comissão Europeia, legislação brasileira e documentos do CNE, publicados entre 2014 e 2026.]`
+`[O contexto do artigo trata-se do uso da inteligência artificial,especificamente a generativa,na área educacional,com atenção ao ambiente normativo brasileiro,como a LGPD (Lei Geral de Proteção de Dados).Além disso, o estudo foi desenvolvido com dados levantados em fontes de artigos,UNESCO, OECD e Comissão Europeia,legislação brasileira e documentos do CNE,publicados entre 2014 e 2026.]`
 
 ### Principais resultados
 
-`[Os resultados principais do artigo são a questão de que as respostas que a IA sugere cabe ao docente e ao aluno validar a decisão de usar ou não; a questão da proteção de dados no uso tem que ser já enraizada desde o começo. A ferramenta de IA é um recurso bom, mas não pode substituir o pensamento crítico nem servir como "muleta" para o esforço cognitivo dos estudantes.]`
+`[Os resultados principais do artigo são a questão de que as respostas que a IA sugere cabe ao docente e ao aluno validar a decisão de usar ou não;a questão da proteção de dados no uso tem que ser já enraizada desde o começo.A ferramenta de IA é um recurso bom, mas não pode substituir o pensamento crítico nem servir como "muleta" para o esforço cognitivo dos estudantes.]`
 
 ### Limitações apresentadas
 
-`[Há uma limitação em relação aos estudos elaborados na pesquisa, pois não há um dado concreto de como a IA está sendo utilizada no ensino, apenas suposições de como seria o uso da ferramenta no ensino para alunos e tutores. Dessa maneira, os autores indicam analisar, com mais tempo de pesquisa, como as instituições brasileiras estão utilizando a IA e seus benefícios. Com isso, pedem uma análise e uma pesquisa empírica mais profunda e concreta.]`
+`[Há uma limitação em relação aos estudos elaborados na pesquisa, pois não há um dado concreto de como a IA está sendo utilizada no ensino,apenas suposições de como seria o uso da ferramenta no ensino para alunos e tutores.Dessa maneira,os autores indicam analisar,com mais tempo de pesquisa,como as instituições brasileiras estão utilizando a IA e seus benefícios.Com isso,pedem uma análise e uma pesquisa empírica mais profunda e concreta.]`
 
 ### Contribuição para o nosso artigo
 
@@ -51,9 +51,9 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Comentário crítico
 
-`[Forças: O artigo apresenta documentos e pesquisas de fontes e normas relevantes como a UNESCO e OECD, e sugere recomendações para o uso correto da IA.
-Fragilidades:  O uso das fontes para estudo foi limitado, pois não há dado concreto sobre a evolução da IA nas instituições brasileiras de ensino. Além disso, o uso da ferramenta não foi testado nas escolas, nem houve um balanço feito por professores e estudantes: o estudo é apenas um levantamento da literatura, com propostas ainda não validadas na prática, como os próprios autores reconhecem. 
-Concordância:  Conforme o artigo, a IA é benéfica para a educação quando é utilizada de forma adequada e na medida certa por professores e alunos, no ambiente pedagógico. Dessa forma, o educador tem papel central em definir como ela será utilizada como recurso amplo para o ensino. Contudo, os alunos jamais devem ficar dependentes da IA para realizar qualquer pensamento crítico.]`
+`[Forças:O artigo apresenta documentos e pesquisas de fontes e normas relevantes como a UNESCO e OECD,e sugere recomendações para o uso correto da IA.
+Fragilidades:O uso das fontes para estudo foi limitado,pois não há dado concreto sobre a evolução da IA nas instituições brasileiras de ensino. Além disso,o uso da ferramenta não foi testado nas escolas, nem houve um balanço feito por professores e estudantes:o estudo é apenas um levantamento da literatura,com propostas ainda não validadas na prática,como os próprios autores reconhecem. 
+Concordância:Conforme o artigo,a IA é benéfica para a educação quando é utilizada de forma adequada e na medida certa por professores e alunos,no ambiente pedagógico.Dessa forma,o educador tem papel central em definir como ela será utilizada como recurso amplo para o ensino.Contudo,os alunos jamais devem ficar dependentes da IA para realizar qualquer pensamento crítico.]`
 
 ### Citação literal opcional
 
