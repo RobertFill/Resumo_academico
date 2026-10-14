@@ -46,11 +46,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`[Referências.]`|`[Formatação inconsistente dos dados das revistas e fontes originais nos fichamentos.]`|`[Padronização das fontes de acordo com a norma ABNT NBR 6023:2018 para o artigo final.]`|`[Herlon F. V. de Oliveira]`|
-
-|`[Desenvolvimento.]`|`[Transição abrupta entre os benefícios da IA e os desafios éticos levantados pela literatura.]`|`[ Reescrita dos parágrafos de transição para diferenciar claramente a descrição da tecnologia e a análise crítica dos seus impactos.]`|`[Herlon F. V. de Oliveira ]`|
-
-|`[Citações.]`|`[ Chamadas de autores soltas fora do padrão no corpo do texto.]`|`[Adequação de todas as chamadas indiretas para o formato Autor-Data (ABNT NBR 10520:2023.]`|`[Herlon F. V. de Oliveira ]`|
+|`[Referências.]`|`[Formatação inconsistente dos dados das revistas e fontes originais nos fichamentos.]`|`[Padronização das fontes de acordo com a norma ABNT NBR 6023:2018 para o artigo final.]`|`[Herlon F. V. de Oliveira]`||`[Desenvolvimento.]`|`[Transição abrupta entre os benefícios da IA e os desafios éticos levantados pela literatura.]`|`[ Reescrita dos parágrafos de transição para diferenciar claramente a descrição da tecnologia e a análise crítica dos seus impactos.]`|`[Herlon F. V. de Oliveira ]`||`[Citações.]`|`[ Chamadas de autores soltas fora do padrão no corpo do texto.]`|`[Adequação de todas as chamadas indiretas para o formato Autor-Data (ABNT NBR 10520:2023.]`|`[Herlon F. V. de Oliveira ]`|
 
 
 
