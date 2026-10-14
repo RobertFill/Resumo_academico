@@ -16,23 +16,19 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Introdução
 
-`[Com o avanço da tecnologia, a Inteligência Artificial (IA) passou a estar cada vez mais presente na educação. Seu uso vem sendo aplicado como uma forma de auxiliar professores e alunos durante o processo de ensino e aprendizagem. A IA pode ajudar a tirar dúvidas, apontar erros, organizar conteúdos e auxiliar nos estudos. 
-Nesse contexto, a utilização da IA vem mudando a forma como algumas atividades educacionais são realizadas. Ao mesmo tempo em que pode trazer benefícios, seu uso também apresenta desafios, principalmente quando utilizada como um caminho para obter respostas prontas sem desenvolver o próprio conhecimento. 
-Dessa forma, torna-se importante compreender como a Inteligência Artificial vem sendo utilizada na educação e quais são suas contribuições e limitações. O objetivo deste trabalho é analisar a evolução da Inteligência Artificial e seu impacto nos processos de ensino e aprendizagem na educação, por meio de uma revisão bibliográfica de natureza qualitativa baseada em artigos científicos.]`
+`[Colocando em questão a Inteligência Artificial, já se mostra com isso que a programação já está dentro do ambiente pessoal e profissional da vida no cotidiano, seja para tirar dúvidas, seja para apontar erros. Sendo assim, a abertura de oportunidades requer cuidados, porém a tecnologia pode virar atalho para respostas prontas, trazendo assim um costume contínuo e não um apoio ao pensamento autônomo. Este artigo parte da pergunta: como a IA tem evoluído e transformado os processos de ensino e aprendizagem na educação contemporânea? O objetivo é analisar essa evolução e o seu impacto, por meio de uma revisão bibliográfica qualitativa baseada em artigos científicos.]`
 
 ## Metodologia
 
-`[O trabalho foi desenvolvido por meio de uma revisão bibliográfica de natureza qualitativa. Foram considerados artigos científicos relacionados ao uso da Inteligência Artificial na educação, com foco nas aplicações da tecnologia no processo de ensino e aprendizagem. O período definido para os artigos foi de 2021 a 2026. 
-A análise buscou identificar informações sobre a evolução da IA na educação, suas aplicações, benefícios, limitações e os desafios relacionados ao seu uso por estudantes e professores. Também foram observadas questões relacionadas à utilização da IA como ferramenta de apoio, sem substituir o desenvolvimento do pensamento e da aprendizagem dos alunos.]`
+`[Dentro da revisão apresentada, podemos destacar que foram selecionados três artigos em português, cujo acesso é aberto, com publicação entre 2021 e 2026, nas seguintes fontes: Educação em Revista, Ambiente: Gestão e Desenvolvimento (SIPEC) e, por fim, Revista Tópicos.
+Com base na triagem, considerou-se a aderência ao tema e a disponibilidade do texto completo no período. Com isso, ficaram de fora estudos centrados no ensino e na perda cognitiva.
+Todos os artigos foram lidos além do resumo e analisados (problema, objetivo, resultados e limitações), e as resenhas foram comparadas em dois eixos.]`
 
 ## Revisão da literatura
 
 ### `[Eixo 1]`
 
-`[Uso da Inteligência Artificial no ensino e aprendizagem. 
-A Inteligência Artificial passou por mudanças e deixou de ser utilizada somente em tarefas mais simples, passando também a atuar como uma ferramenta capaz de interagir com estudantes. Na educação, ela pode ser utilizada para auxiliar na resolução de dúvidas, organização dos estudos e correção de atividades. 
-Um dos estudos analisados destaca que a utilização da IA generativa pelos estudantes já é uma realidade. O estudo também chama atenção para o fato de que a tecnologia pode ajudar no aprendizado, mas não deve substituir conhecimentos fundamentais e a capacidade de resolver problemas de forma independente. 
-Assim, a IA pode funcionar como uma espécie de apoio ao estudante. Porém, quando utilizada apenas para conseguir respostas prontas, pode prejudicar o desenvolvimento de competências importantes. Por isso, o professor continua tendo um papel importante na orientação e no acompanhamento do uso dessas ferramentas. ]`
+`[Conforme estudos sobre a IA na educação, conclui-se que ela não nasceu com um modelo de linguagem. Alessi, Pereira e Grossi (2025) lembram que o termo surgiu em 1956, passando por períodos de estagnação, mas voltou com o ChatGPT como debate, em 2022. Já Silva et al. (2026) colocaram em questão a existência de tutores qualificados, trazendo resultados bem favoráveis diante dos desenhos bem apresentados. Hoje, destacam-se o feedback imediato, a organização de conteúdos e os chatbots para esclarecer dúvidas (ALESSI; PEREIRA; GROSSI, 2025; DURSO, 2025). Os métodos diferem: Durso (2025) destaca uma conclusão avaliativa, Silva et al. (2026) uma revisão funcional e Alessi, Pereira e Grossi (2025) uma revisão sistemática de 10 trabalhos.]`
 
 ### `[Eixo 2]`
 
@@ -43,22 +39,21 @@ Outro ponto importante é a necessidade de desenvolver o pensamento crítico e a
 
 ### Síntese crítica
 
-`[A partir do estudo analisado, percebe-se que a Inteligência Artificial apresenta possibilidades importantes para a educação, principalmente como ferramenta de apoio ao ensino e à aprendizagem. Porém, os benefícios dependem da forma como a tecnologia é utilizada.
-Existe uma preocupação com o uso da IA como substituta do esforço do estudante. O uso excessivo para obter respostas prontas pode diminuir a participação do aluno no próprio processo de aprendizagem. Por isso, a tecnologia deve ser utilizada como suporte e não como substituta do pensamento autônomo.]`
+`[De modo geral, a IA se coloca como um indicador de que deixou de ser uma auxiliar de tarefas e passou a ser um agente assistencial conversacional, e seu valor educacional depende menos da ferramenta do que da mediação docente. Com isso, as limitações se repetem: em Durso (2025) aparecem soluções parecidas, como ensinar professores, sem detalhar a prática; Alessi, Pereira e Grossi (2025) buscaram análise de amostras pequenas; Silva et al. (2026 não avaliam o quanto os alunos aprenderam. Como lacunas, faltam pesquisas brasileiras baseadas na prática, a falta de acompanhamento de longo prazo e a carência de orientações práticas para o uso cotidiano..]`
 
 ## Considerações finais
 
-`[A Inteligência Artificial vem transformando a educação e criando novas possibilidades para professores e estudantes. Seu uso pode facilitar o acesso a informações, auxiliar nos estudos e contribuir para o processo de aprendizagem. 
-Entretanto, também existem desafios, como erros nas informações, dependência da tecnologia, desigualdade de acesso e perda do desenvolvimento de algumas competências quando a ferramenta é utilizada de maneira inadequada. Assim, a IA deve ser utilizada de forma consciente e com acompanhamento dos professores. 
-Conclui-se que a Inteligência Artificial pode contribuir para a educação quando utilizada como uma ferramenta de auxílio. Seu avanço não elimina a importância do professor nem do esforço do estudante, mas exige novas formas de utilização da tecnologia dentro do processo de ensino e aprendizagem.]`
+`[Dando retorno à solução do problema, a literatura verificada destaca que a IA cresceu em desempenho, passando de tutores e análise de dados para ferramentas que criam conteúdo, buscando ampliar a ajuda às dúvidas que surgem e sustentando as correções e os planejamentos. Porém, os cuidados devem ser colocados em questão para que não ocorram erros na educação, pois tudo só se sustenta quando o professor equilibra a utilização com rigor nas atividades, exigindo esforço do aluno. Sendo assim, esta revisão reúne apenas três artigos, que não podem ser usados como forma de avaliar o aprendizado. Com isso, sugerem-se pesquisas empíricas em escolas brasileiras, com acompanhamento de longo prazo, e propostas práticas de formação docente e de avaliação por processo.]`
 
 ## Resumo
 
-`[A Inteligência Artificial vem ganhando espaço na educação e sendo utilizada como ferramenta de auxílio para professores e estudantes. Este trabalho teve como objetivo analisar a evolução da IA e seu impacto no processo de ensino e aprendizagem. Foi realizada uma revisão bibliográfica de natureza qualitativa, considerando estudos sobre a utilização da IA na educação. Os resultados indicam que a tecnologia pode auxiliar nos estudos, na organização dos conteúdos e na solução de dúvidas, mas também apresenta limitações, como erros, vieses e o risco de substituir o esforço do estudante. Conclui-se que a IA pode contribuir para a educação quando utilizada de maneira responsável e como suporte ao processo de aprendizagem.]`
+`[Por meio da IA, a ferramenta trouxe um grande apoio ao ensino como um todo, buscando agir nas dúvidas e, assim, corrigir e definir as questões referentes a cada assunto, porém o cuidado tem que ser assertivo, pois ela não pode ser vista como um atalho. Este artigo analisa o crescimento da IA e seu desempenho nas instituições educacionais, segundo a literatura científica. Realizou-se uma pesquisa em três artigos já publicados entre 2021 e 2026, analisados de forma qualitativa e comparados em dois eixos. Os estudos destacam o quanto a IA evoluiu de tutores a assistentes que criam textos e respostas, com benefícios condicionados ao desenho da atividade, à formação docente e à regulamentação. Faltam pesquisas brasileiras e de longo prazo.]`
 
 ## Referências
 
-`[Educação em Revista, SIPEC, Revista Tópicos]`
+`[ALESSI, Rodrigo Felipe; PEREIRA, Ana Lucia; GROSSI, Luciane. O letramento em inteligência artificial na educação: uma revisão sistemática de literatura. Ambiente: Gestão e Desenvolvimento, V Simpósio de Pesquisa em Educação para a Ciência – SIPEC, 2025. DOI: https://doi.org/10.24979/ambiente.vi.1677.
+DURSO, Samuel. O uso da inteligência artificial na educação e o desenvolvimento de competências dos estudantes. Educação em Revista, Belo Horizonte, v. 41, n. 41, 2025. DOI: https://doi.org/10.35699/edur.v41i41.57645.
+SILVA, Marilene de Macedo e et al. Inteligência artificial na educação: desafios e oportunidades no processo de ensino-aprendizagem. Revista Tópicos, Rio de Janeiro, v. 4, n. 36, p. 1-27, 2026. DOI: https://doi.org/10.70773/revistatopicos/786385368.]`
 
 ## Checklist
 
