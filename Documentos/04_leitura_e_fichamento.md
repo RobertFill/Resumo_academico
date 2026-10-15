@@ -24,7 +24,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 ### Problema investigado
 
 `[Mesmo com benefícios gerados pela IA,o processo que ela busca solucionar pode prejudicar o desenvolvimento de conhecimento básico.
-Assim,a utilização de IA generativa na sala de aula não pode substituir o desenvolvimento de conhecimentos básicos e fundamentais relacionadas com a soluções de problemas e aprendizagem autónoma que são importantes]`
+Assim,a utilização de IA generativa na sala de aula não pode substituir o desenvolvimento de conhecimentos básicos e fundamentais relacionadas com a soluções de problemas e aprendizagem autónoma que são importantes.]`
 
 ### Objetivo do estudo
 
@@ -32,7 +32,7 @@ Assim,a utilização de IA generativa na sala de aula não pode substituir o des
 
 ### Método utilizado
 
-`[Revisão no modo de avaliar usando uma visão mais de perto e detalhada,este trabalho foi feito com base em uma análise crítica profundas sobre o impacto da inteligência artificia, conectado com a leitura de pesquisas recentes e relatórios internacionais sobre habilidades (como o World Economic Forum) sobre os impactos da inteligência artificial no processo de ensino e aprendizagem.]`
+`[Revisão no modo de avaliar usando uma visão mais de perto e detalhada,este trabalho foi feito com base em uma análise crítica profundas sobre o impacto da inteligência artificia,conectado com a leitura de pesquisas recentes e relatórios internacionais sobre habilidades (como o World Economic Forum) sobre os impactos da inteligência artificial no processo de ensino e aprendizagem.]`
 
 ### Contexto, amostra ou dados
 
@@ -41,7 +41,7 @@ Amostra/Dados:Esse trabalho é uma pesquisa teórica e bibliográfica,por isso,o
 
 ### Principais resultados
 
-`[Preparar os estudantes para o mercado e a sociedade por meio de competências como pensamento analítico, criatividade, Adaptação, ética e instrução digital.A ausência do conhecimento e domínio dessas tecnologias pode ocasionar em  exclusão social e profissional na atualidade]`
+`[Preparar os estudantes para o mercado e a sociedade por meio de competências como pensamento analítico,criatividade,adaptação,ética e instrução digital.A ausência do conhecimento e domínio dessas tecnologias pode ocasionar em  exclusão social e profissional na atualidade]`
 
 ### Limitações apresentadas
 
@@ -55,7 +55,7 @@ Embora possa ser usada para organizar conteúdos e personalizar estudos,seu avan
 ### Comentário crítico
 
 `[Forças:Alerta para os riscos de exclusão social,desemprego estrutural e ampliação da desigualdade caso o acesso às tecnologias de ponta não seja acessivel.
-Fragilidades:texto indica com clareza os riscos da inteligência artificial(IA) na educação, porém sugere apenas soluções genéricas (como capacitar professores) sem explicar como aplicar ideias na prática em sala de aula.
+Fragilidades:texto indica com clareza os riscos da inteligência artificial(IA) na educação,porém sugere apenas soluções genéricas (como capacitar professores) sem explicar como aplicar ideias na prática em sala de aula.
 Concordncias:é incontestavel que com o alerta de que o uso descontrolado da IA generativa para integração ou resolução automatizada pode prejudicar o conhecimento fundamental dos estudantes.A avaliação da aprendizagem deve ser ensinada por debates constantes e na interação direta entre professores(a) e alunos(a),reconhecendo a IA apenas como suporte.]`
 
 ### Citação literal opcional
